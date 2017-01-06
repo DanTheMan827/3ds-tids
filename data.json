@@ -1,103 +1,103 @@
 [
   {
-    "title" : "ftPony ",
-    "id" : "0x1331",
+    "name" : "ftPony",
+    "titleid" : "0x1331",
     "author" : "gudenaurock",
     "url" : "https://gbatemp.net/threads/cia-ftpony.381604/"
   },
   {
-    "title" : "Nestopia",
-    "id" : "0x1932",
+    "name" : "Nestopia",
+    "titleid" : "0x1932",
     "author" : "libretro team",
     "url" : ""
   },
   {
-    "title" : "Pictochat3DS ",
-    "id" : "0x9125",
+    "name" : "Pictochat3DS",
+    "titleid" : "0x9125",
     "author" : "BurningDesire / Ptrk25",
     "url" : "https://gbatemp.net/threads/offical-release-thread-pictochat3d.396398/"
   },
   {
-    "title" : "Flask ",
-    "id" : "0xA04E",
+    "name" : "Flask",
+    "titleid" : "0xA04E",
     "author" : "TurtleP",
     "url" : "https://github.com/TurtleP/Flask"
   },
   {
-    "title" : "Cyanogen3DS ",
-    "id" : "0x16001",
+    "name" : "Cyanogen3DS",
+    "titleid" : "0x16001",
     "author" : "Joel16",
     "url" : "https://gbatemp.net/threads/cyanogen3ds-an-alternative-gui-menu-for-the-3ds.385401/"
   },
   {
-    "title" : "Unofficial LumaUpdate",
-    "id" : "0xA2243",
+    "name" : "Unofficial LumaUpdate",
+    "titleid" : "0xA2243",
     "author" : "",
     "url" : ""
   },
   {
-    "title" : "RD3DS ",
-    "id" : "0xBAD1D",
+    "name" : "RD3DS",
+    "titleid" : "0xBAD1D",
     "author" : "Shinitai",
     "url" : "https://gbatemp.net/threads/rd3ds-remote-desktop-3ds.428313/"
   },
   {
-    "title" : "Side-Scrolling Example",
-    "id" : "0xC0D00",
+    "name" : "Side-Scrolling Example",
+    "titleid" : "0xC0D00",
     "author" : "Voxel",
     "url" : "https://gbatemp.net/threads/release-wip-2d-side-scrolling-example-in-3d.400017/"
   },
   {
-    "title" : "Smash Bros "Dummy" Application",
-    "id" : "0xDA001",
+    "name" : "Smash Bros \"Dummy\" Application",
+    "titleid" : "0xDA001",
     "author" : "daxtsu",
     "url" : "https://gbatemp.net/threads/release-smash-bros-monster-hunter-4-rebooter.379394/"
   },
   {
-    "title" : "Wifi Toggle",
-    "id" : "0xDA003",
+    "name" : "Wifi Toggle",
+    "titleid" : "0xDA003",
     "author" : "daxtsu",
     "url" : "https://gbatemp.net/threads/release-wifi-toggle.400018/"
   },
   {
-    "title" : "ECI Tool",
-    "id" : "0xEC100",
+    "name" : "ECI Tool",
+    "titleid" : "0xEC100",
     "author" : "BernardoGiordano",
     "url" : ""
   },
   {
-    "title" : "Useless Homebrew",
-    "id" : "0xF0030",
+    "name" : "Useless Homebrew",
+    "titleid" : "0xF0030",
     "author" : "Technicmaster0",
     "url" : "https://gbatemp.net/threads/useless-homebrew.378284/"
   },
   {
-    "title" : "Cinoop ",
-    "id" : "0xF0FC3",
+    "name" : "Cinoop",
+    "titleid" : "0xF0FC3",
     "author" : "Cturt",
     "url" : "https://github.com/CTurt/Cinoop"
   },
   {
-    "title" : "DownloadMii ",
-    "id" : "0xF1048",
+    "name" : "DownloadMii",
+    "titleid" : "0xF1048",
     "author" : "filfat",
     "url" : "https://gbatemp.net/threads/downloadmii-a-homebrew-online-marketplace.374759/"
   },
   {
-    "title" : "PHBankGB ",
-    "id" : "0xF64ED",
+    "name" : "PHBankGB",
+    "titleid" : "0xF64ED",
     "author" : "Gocario",
     "url" : "https://gbatemp.net/threads/wip-phbankgb-pok%C3%A9mon-homebrew-bank-gb-r-b-y.418440/"
   },
   {
-    "title" : "CitrAGB ",
-    "id" : "0xFAAAA",
+    "name" : "CitrAGB",
+    "titleid" : "0xFAAAA",
     "author" : "shinyquagsire23",
     "url" : "https://gbatemp.net/threads/citragb-3ds-gba-emulator-wip.376438/"
   },
   {
-    "title" : "Pituka Classics - Rick",
-    "id" : "0xC2C001",
+    "name" : "Pituka Classics - Rick",
+    "titleid" : "0xC2C001",
     "author" : "D_Skywalk",
     "url" : "http://david.dantoine.org/proyecto/26/"
   }
